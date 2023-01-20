@@ -12,7 +12,7 @@ $$ |  $$ |$$ |  $$ |$$  _$$<  $$   ____|\_$$  $$  _|
  [![Aveygo - JokeNumber](https://img.shields.io/static/v1?label=Aveygo&message=JokeNumber&color=black&logo=github)](https://github.com/Aveygo/JokeNumber "Go to GitHub repo")
 [![stars - JokeNumber](https://img.shields.io/github/stars/Aveygo/JokeNumber?style=social)](https://github.com/Aveygo/JokeNumber)   [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](https://opensource.org/licenses/MIT) [![Python 3.9.9](https://img.shields.io/badge/python-3.9.9-black.svg)](https://www.python.org/downloads/release/python-399/)
 
-Time to simplify a joke to a number with machine learning.
+Simplify a joke to a number with machine learning.
 
 Using BERT encodings and dimensionality reduction, a joke can be transfered to a single number.
 This has the added benefit that similar jokes have similar numbers, unlike hashing which will result
