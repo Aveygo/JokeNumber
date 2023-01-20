@@ -26,6 +26,11 @@ cd JokeNumber
 python3 convert.py "Why did the chicken cross the road? To get to the other side."
 ```
 
+Libraries:
+```
+numpy, pytorch, transformers
+```
+
 Some results:
 
 ```
