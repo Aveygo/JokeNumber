@@ -16,16 +16,16 @@ python3 convert.py "Why did the chicken cross the road? To get to the other side
 Some results:
 
 ```
-(1). Why did the chicken cross the road? To get to the other side. => 2533712
-(2). Why did the cow cross the road? To get to the other side. => 2761839
-(3). My dad has a heart of a lion ...and a lifetime ban from the local zoo. => 2457741
+(1). Why did the chicken cross the road? To get to the other side. => 25474
+(2). Why did the cow cross the road? To get to the other side. => 27588
+(3). Burnt my Hawaiian pizza today, should have cooked it on aloha temperature... => 33643
 
-| (1) - (2) | = 228127
-| (2) - (3) | = 304098
+| (1) - (2) | = 2114
+| (1) - (3) | = 8169
 
 ```
 
-As expected, the first two jokes are more similar than the last two
+As expected, the second joke is more similar to the first than the third is.
 
 ```
 A man is sent to prison for the first time.
@@ -50,4 +50,4 @@ of the joke instead of telling it."
 
 "You didn't tell it right."
 ```
-Is joke #6489523
+Is joke #63408
