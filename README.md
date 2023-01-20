@@ -5,6 +5,28 @@ Using BERT encodings and dimensionality reduction, a joke can be transfered to a
 This has the added benefit that similar jokes have similar numbers, unlike hashing which will result
 in a more random number.
 
+To use:
+
+```
+git clone https://github.com/Aveygo/JokeNumber.git
+cd JokeNumber
+python3 convert.py "Why did the chicken cross the road? To get to the other side."
+```
+
+Some results:
+
+```
+(1). Why did the chicken cross the road? To get to the other side. => 2533712
+(2). Why did the cow cross the road? To get to the other side. => 2761839
+(3). My dad has a heart of a lion ...and a lifetime ban from the local zoo. => 2457741
+
+| (1) - (2) | = 228127
+| (2) - (3) | = 304098
+
+```
+
+As expected, the first two jokes are more similar than the last two
+
 ```
 A man is sent to prison for the first time.
 
@@ -28,3 +50,4 @@ of the joke instead of telling it."
 
 "You didn't tell it right."
 ```
+Is joke #6489523
