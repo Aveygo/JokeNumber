@@ -27,8 +27,12 @@ python3 convert.py "Why did the chicken cross the road? To get to the other side
 ```
 
 Libraries:
+[pytorch](https://pytorch.org/get-started/locally/)
+
+and
+
 ```
-numpy, pytorch, transformers
+pip3 install numpy transformers
 ```
 
 Some results:
