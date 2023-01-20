@@ -3,7 +3,7 @@ Time to simplify a joke to a number with machine learning.
 
 Using BERT encodings and dimensionality reduction, a joke can be transfered to a single number.
 This has the added benefit that similar jokes have similar numbers, unlike hashing which will result
-in a more random number.
+in a more random output.
 
 To use:
 
